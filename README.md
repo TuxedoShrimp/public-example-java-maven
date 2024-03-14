@@ -17,3 +17,4 @@ git clone https://github.com/srcclr/example-java-maven
 cd example-java-maven
 mvn clean compile com.srcclr:srcclr-maven-plugin:scan -DapiToken=<yourSourceClearToken>
 ```
+#TEST1
