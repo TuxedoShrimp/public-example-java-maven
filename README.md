@@ -22,3 +22,4 @@ mvn clean compile com.srcclr:srcclr-maven-plugin:scan -DapiToken=<yourSourceClea
 #test3
 #TEST4
 #TEST5
+#test6
